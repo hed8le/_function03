@@ -16,6 +16,7 @@
 		$b="er BMW mit ";
 		$c=4.752;
 		$d=" Hubraum";
+		$n="Neues Alfred-Script";
 		echo $a . $b . $c . $d . " und 300 PS.<br>";
 
 		//2. Arrays
